@@ -163,6 +163,10 @@ body {
     margin-left: 1rem;
 }
 
+.summary-score span {
+    font-weight: var(--fw-bold);
+}
+
 .flex-group {
     display: flex;
     align-items: center;
